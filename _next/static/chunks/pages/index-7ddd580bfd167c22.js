@@ -875,7 +875,7 @@
                                     })
                                 }), (0, r.jsx)("p", {
                                     className: "mt-10 text-sm text-ptsd-white sm:mt-5 sm:text-sm lg:text-sm xl:text-sm",
-                                    children: "6PM EST JUNE 6TH"
+                                    children: "7PM EST JUNE 6TH"
                                 }), (0, r.jsx)("div", {
                                     className: "mt-8",
                                     children: (0, r.jsx)("a", {
